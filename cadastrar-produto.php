@@ -47,7 +47,7 @@ require "src/Repositorio/ProdutoRepositorio.php";
     <section class="container-admin-banner">
         <img src="img/logo.png" class="logo-admin" alt="logo-serenatto">
         <h1>Cadastro de Produtos</h1>
-        <img class= "ornaments" src="img/ornaments-coffee.png" alt="ornaments">
+   
     </section>
     <section class="container-form">
         <form action="cadastrar" method="POST" enctype="multipart/form-data">
